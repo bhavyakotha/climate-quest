@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    gap: 1rem;
+  }
+  
+  nav ul li {
+    display: inline;
+  }
+  
+  h2 {
+    margin-top: 2rem;
+  }
+  

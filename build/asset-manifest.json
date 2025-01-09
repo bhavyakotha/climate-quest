@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/climate-quest/static/css/main.91990087.css",
+    "main.js": "/climate-quest/static/js/main.6c311edf.js",
+    "index.html": "/climate-quest/index.html",
+    "main.91990087.css.map": "/climate-quest/static/css/main.91990087.css.map",
+    "main.6c311edf.js.map": "/climate-quest/static/js/main.6c311edf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91990087.css",
+    "static/js/main.6c311edf.js"
+  ]
+}
